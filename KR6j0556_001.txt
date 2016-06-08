@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:42.280294
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:27
 #+TITLE: 佛說療痔病經
 #+PROPERTY: CBETA_ID T21n1325
 #+PROPERTY: ID KR6j0556
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1325
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0556_T_000-0490b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0556_T_001-0490b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1325¶
-
- 佛說療痔病經¶
+No. 1325¶
+佛說療痔病經¶
 ¶
 大唐三藏義淨奉　制譯¶
 
@@ -41,10 +40,9 @@ No.1325¶
 
 即說呪曰：¶
 
-「怛姪他　揭賴米　室利　室利　魔揭室¶
-至　三磨[革*夭]都　莎訶¶
+「怛姪他　揭賴米　室利　室利　魔揭室至　三磨󱀥都　莎訶[革*夭]¶
 
-「此呪(丹藏云)：¶
+「此呪丹藏云：(丹藏云)¶
 
 「怛姪他　頞闌帝　頞藍謎　室利鞞　室里¶
 室里　磨羯失質　三婆跋覩　莎訶¶
